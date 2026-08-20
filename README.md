@@ -10,7 +10,7 @@ Companion to [learning](https://github.com/psanskaar/learning), which documents 
 
 | Contest | Platform | Date | Findings | Severity | Earned |
 |---|---|---|---|---|---|
-| [BattleChain Confidence Pools](competitions/codehawks/battlechain-confidence-pools/) | CodeHawks | Jul 2026 | 1 | 1L | 0 ETH |
+| [BattleChain Confidence Pools](competitions/codehawks/battlechain-confidence-pool/) | CodeHawks | Jul 2026 | 1 | 1L | 0 ETH |
 
 ---
 
